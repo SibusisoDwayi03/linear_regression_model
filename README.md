@@ -46,21 +46,9 @@ Generated test data to evaluate model performance.
 Compared actual vs. predicted values.
 Used the textplots crate to visualize results in the terminal.
 
-📊 Results
-✔️ Training Progress
-During training, the loss decreases over epochs, showing that the model is learning:
-Epoch 0: Loss = 10.5
-Epoch 10: Loss = 3.8
-Epoch 20: Loss = 1.2
-...
-Epoch 90: Loss = 0.02
-✔️ Model Predictions vs. Actual Data
-After training, the model makes accurate predictions. Below is a text-based plot of actual vs. predicted values:
-  ^
-  |  *  *   *  *      (Actual Data)
-  |    *  *   * *    
-  |  +   +   +   +    (Predicted Data)
-  |----------------> x
+📊Results
+<img width="960" alt="graph" src="https://github.com/user-attachments/assets/774862e2-2066-4a5d-afda-c549464d9b3b" />
+
   
 🔍 Challenges & Learnings
 ❌ Challenges Faced
